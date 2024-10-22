@@ -36,3 +36,11 @@ Varsayýlan kullanýcýlar:
     - user1 : þifre: 1234
     - user2 : þifre: 1234
     - user3 : þifre: 1234
+
+Ekran Görüntüleri:
+
+![img_2.png](img_2.png)
+
+![img_1.png](img_1.png)
+
+![img_3.png](img_3.png)
